@@ -1,5 +1,5 @@
 {
-  "track": "track.nii.gz",
+  "track": "track.trk",
   "t1": "t1.nii.gz",
   "atlas": "v3.0",
   "minL": 20,
