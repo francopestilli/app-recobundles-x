@@ -1,0 +1,10 @@
+{
+  "track": "track.nii.gz",
+  "t1": "t1.nii.gz",
+  "atlas": "v3.0",
+  "minL": 20,
+  "maxL": 200,
+  "seeds": 0,
+  "minimal_vote_ratio": 0.5,
+  "processes": 1
+}
